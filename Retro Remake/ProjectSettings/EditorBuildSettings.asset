@@ -8,4 +8,46 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Title.unity
+    guid: 5042e4a3c8de56945b776f383340b4eb
+  - enabled: 1
+    path: Assets/Info.unity
+    guid: 1614e8495a0325f46a4407281850f1e6
+  - enabled: 1
+    path: Assets/Level 1.unity
+    guid: 05f8e9b19450a644782d3d31fa18d551
+  - enabled: 1
+    path: Assets/Before Next Level.unity
+    guid: ffa9fd9bda0b02e45af484fa1ca08e43
+  - enabled: 1
+    path: Assets/Level 2.unity
+    guid: ed0fc79580abb1242b893f0e9eb08848
+  - enabled: 1
+    path: Assets/Multiplayer.unity
+    guid: 0c84d6b3197cfa14880621215a6a86d5
+  - enabled: 1
+    path: Assets/BNLM.unity
+    guid: aa592c6979e924e40946ce9305d01f27
+  - enabled: 1
+    path: Assets/Multiplayer 2.unity
+    guid: fc2dfbeff252b4342ae42a2606c0ecd0
+  - enabled: 1
+    path: Assets/Settings.unity
+    guid: 8408f779e53edae40a1ef14b48309cd1
+  - enabled: 1
+    path: Assets/Game Over.unity
+    guid: f8b9de183737ec34e8be4eba1b5e0cfb
+  - enabled: 1
+    path: Assets/Winner.unity
+    guid: 6cacc6b9f96cca14086094d6924b041e
+  - enabled: 1
+    path: Assets/Winner2.unity
+    guid: faa7965a3a73a474dbfbd6ab4521e105
+  - enabled: 1
+    path: Assets/Level 3 Endless.unity
+    guid: 60740b4c1db78f64b85d1b6160f422d7
+  - enabled: 1
+    path: Assets/Endless M.unity
+    guid: 2d2539f18abd6d8468fd5e3ba4605352
   m_configObjects: {}
